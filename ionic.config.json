@@ -1,0 +1,8 @@
+{
+  "name": "Boksapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "6f95a3dc"
+}
